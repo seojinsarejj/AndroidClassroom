@@ -1,0 +1,8 @@
+rootProject.name='Test'
+include ':app'
+include ':test1'
+include ':test2'
+include ':practice'
+include ':practice1'
+include ':practice2'
+include ':practice3'
