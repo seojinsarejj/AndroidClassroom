@@ -9,15 +9,19 @@
 
 ## Chapter10
 - 교과서 Chapter10
+- Intent
 
 ## Chapter11
 - 교과서 Chapter11
+- listview ( simpleadapter, customadapter)
 
 ## Chapter13
 - 교과서 Chapter13
+- thread
 
 ## Chapter14
 - 교과서 Chapter14
+- service
 
 ## Chapter5_practice
 - 버튼 클릭 이벤트 처리 연습
