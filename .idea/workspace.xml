@@ -1,177 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4458c7db-25a7-4d90-9252-61479b78b34e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter11/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/androidTest/java/com/example/chapter11/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/java/com/example/chapter11/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/app/src/test/java/com/example/chapter11/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/androidTest/java/com/example/ex01_listview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/java/com/example/ex01_listview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex01_listview/src/test/java/com/example/ex01_listview/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/androidTest/java/com/example/ex02_listview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/java/com/example/ex02_listview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/layout/asdf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex02_listview/src/test/java/com/example/ex02_listview/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/androidTest/java/com/example/ex03_listview_addmodifydelete/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/java/com/example/ex03_listview_addmodifydelete/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex03_listview_addmodifydelete/src/test/java/com/example/ex03_listview_addmodifydelete/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/ex06_listview_customadapter01/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter11/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/androidTest/java/com/example/chapter5_practice/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/drawable-v24/jaewon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/app/src/test/java/com/example/chapter5_practice/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter5_practice/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myapp/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myapp/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myapp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myapp/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Myapp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android_project/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android_project/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android_project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android_project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android_project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6_practice/countdowntimer/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6_practice/practice6-1/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice1/practice3/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Myapp" beforeDir="false" afterPath="$PROJECT_DIR$/Myapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_project" beforeDir="false" afterPath="$PROJECT_DIR$/android_project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6_practice" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6_practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice1" beforeDir="false" afterPath="$PROJECT_DIR$/practice1" afterDir="false" />
-    </list>
+    <list default="true" id="4458c7db-25a7-4d90-9252-61479b78b34e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598401223619</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GITHUB 정리">
+      <created>1598401554059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598401554059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdf" />
+    <MESSAGE value="GITHUB 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="GITHUB 정리" />
   </component>
 </project>
