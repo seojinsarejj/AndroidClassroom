@@ -34,6 +34,7 @@
 
 ## chapter6_practice
 - 교과서 Chapter 6 연습문제
+- scrollview, progressbar
 
 ## practice1
 - 1차 수행평가 연습
